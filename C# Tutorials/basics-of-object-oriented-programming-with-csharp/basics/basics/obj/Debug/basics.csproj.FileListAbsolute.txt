@@ -1,0 +1,7 @@
+C:\Users\Arunn Kanthan\Desktop\E-Courses\Udemy\basics-of-object-oriented-programming-with-csharp\basics\basics\obj\Debug\basics.csproj.CoreCompileInputs.cache
+C:\Users\Arunn Kanthan\Desktop\E-Courses\Udemy\basics-of-object-oriented-programming-with-csharp\basics\basics\bin\Debug\basics.exe.config
+C:\Users\Arunn Kanthan\Desktop\E-Courses\Udemy\basics-of-object-oriented-programming-with-csharp\basics\basics\bin\Debug\basics.exe
+C:\Users\Arunn Kanthan\Desktop\E-Courses\Udemy\basics-of-object-oriented-programming-with-csharp\basics\basics\bin\Debug\basics.pdb
+C:\Users\Arunn Kanthan\Desktop\E-Courses\Udemy\basics-of-object-oriented-programming-with-csharp\basics\basics\obj\Debug\basics.exe
+C:\Users\Arunn Kanthan\Desktop\E-Courses\Udemy\basics-of-object-oriented-programming-with-csharp\basics\basics\obj\Debug\basics.pdb
+C:\Users\Arunn Kanthan\Desktop\E-Courses\Udemy\basics-of-object-oriented-programming-with-csharp\basics\basics\obj\Debug\basics.csprojResolveAssemblyReference.cache
